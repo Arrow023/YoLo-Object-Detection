@@ -37,10 +37,11 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
   	For example , the downloaded file is "yolov2-tiny.weights" ==>> "yolov3.weights"
   	Similarly , for "yolov2-tiny.cfg"  ===>>  "yolov3.cfg"
 
-******Note that the rename process is very important ,orelse the program won't run.**********
+Note that the rename process is very important ,orelse the program won't run.
 
 	To run the program  goto to terminal and type the following
 	1. To process the image file, enter the following
 		python yolo.py --image images/sample.jpg --yolo yolo-coco
 	2.To process the video file , enter the following
 		python yolo_video.py --input video/bean.mp4 --output output/bean_output.avi --yolo yolo-coco
+Reference : https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
