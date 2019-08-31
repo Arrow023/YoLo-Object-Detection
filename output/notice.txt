@@ -1,0 +1,3 @@
+This is the place where the processed video gets stored. I haven't uploaded the video in this directory because the file size after
+processing  is more than 450MB. So, sorry guys. 
+But I have uploaded the trimmed version of the video. Hope you can get the output.
