@@ -1,2 +1,2 @@
 you can download the weights file from the following link and rename it to "yolov3.weights" .After renaming run the yolo.py #
-#URL: https://pjreddie.com/media/files/yolov2-tiny.weights 
+#URL: https://pjreddie.com/media/files/yolov2-tiny.weights  
