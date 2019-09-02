@@ -4,7 +4,7 @@ Machine Learning is an interesting topic that attracts everyone. It cannot be ad
 I have presented this directory to you , to learn the new YoLo Object Detection algorithm
 # Modules to be installed
       pip install numpy
-      pip install argparse
+      pip install argparse 
       pip install opencv-python
       pip install imutils
   These modules are necessary to run the package
