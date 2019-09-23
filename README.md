@@ -44,4 +44,4 @@ Note that the rename process is very important ,orelse the program won't run.
 		python yolo.py --image images/sample.jpg --yolo yolo-coco
 	2.To process the video file , enter the following
 		python yolo_video.py --input video/bean.mp4 --output output/bean_output.avi --yolo yolo-coco
-Reference : https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+Reference : https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/ 
