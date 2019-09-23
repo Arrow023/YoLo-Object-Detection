@@ -1,5 +1,5 @@
 # YoLo-Object-Detection  
-This repository contains the working model of YoLo algorithm 
+This repository contains the working model of YoLo algorithm  
 Machine Learning is an interesting topic that attracts everyone. It cannot be advanced in days,infact it take years of effort.
 I have presented this directory to you , to learn the new YoLo Object Detection algorithm
 # Modules to be installed
