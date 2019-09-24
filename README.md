@@ -9,7 +9,7 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
       pip install imutils 
   These modules are necessary to run the package  
 # Instructions  
-      $ tree  
+      $ tree   
       .
       ├── images
       │   ├── sample.jpg      //These are input image files 
