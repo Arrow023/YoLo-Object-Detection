@@ -16,7 +16,7 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
       │   ├── dining_table.jpg
       │   ├── living_room.jpg
       │   └── soccer.jpg
-      ├── output
+      ├── output 
       │   ├── airport_output.avi
       │   ├── car_chase_01_output.avi       //These are the processed YoLo output video files
       │   ├── car_chase_02_output.avi
