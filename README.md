@@ -36,7 +36,7 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
   	After downloading the weights files and cfg files , rename them according to tree structure 
   	For example , the downloaded file is "yolov2-tiny.weights" ==>> "yolov3.weights"
   	Similarly , for "yolov2-tiny.cfg"  ===>>  "yolov3.cfg"
-
+ 
 Note that the rename process is very important ,orelse the program won't run.
 
 	To run the program  goto to terminal and type the following
