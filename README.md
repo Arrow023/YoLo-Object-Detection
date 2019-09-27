@@ -8,7 +8,7 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
       pip install opencv-python 
       pip install imutils 
   These modules are necessary to run the package  
-# Instructions  
+# Instructions 
       $ tree   
       .
       ├── images
