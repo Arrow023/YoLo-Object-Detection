@@ -5,7 +5,7 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
 # Modules to be  Installed 
       pip install numpy 
       pip install argparse
-      pip install opencv-python
+      pip install opencv-python 
       pip install imutils
   These modules are necessary to run the package  
 
