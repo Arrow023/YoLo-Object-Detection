@@ -13,7 +13,7 @@ I have presented this directory to you , to learn the new YoLo Object Detection 
       $ tree   
       .
       ├── images
-
+      │    
       │   ├── sample.jpg      //These are input image files 
       │   ├── dining_table.jpg
       │   ├── living_room.jpg
